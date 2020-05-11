@@ -1,7 +1,6 @@
 
 def reverse_with_collect(sentence)
-  
-def reverse_each_word(sentence)
+
   array_sen = sentence.split(" ")
   starting_here = []
   
@@ -12,7 +11,7 @@ def reverse_each_word(sentence)
   starting_here.flatten
   final = starting_here.join(" ")
   final
-end
+
 
   new_array = sentence.split(" ")
   new_array.map { |x| x }
