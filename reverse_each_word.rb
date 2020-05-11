@@ -1,4 +1,4 @@
-def reverse_with_collect(sentence)
+def reverse_each_word(sentence)
   array_sen = sentence.split(" ")
   starting_here = []
   
