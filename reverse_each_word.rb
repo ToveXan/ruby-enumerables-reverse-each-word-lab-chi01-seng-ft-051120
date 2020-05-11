@@ -1,4 +1,3 @@
-
 def reverse_with_collect(sentence)
   array_sen = sentence.split(" ")
   starting_here = []
