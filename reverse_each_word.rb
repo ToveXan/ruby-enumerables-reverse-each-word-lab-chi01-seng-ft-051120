@@ -14,3 +14,5 @@ def reverse_with_collect(sentence)
   new_sen.collect { |x| x.reverse }
   new_sen
 end
+
+
